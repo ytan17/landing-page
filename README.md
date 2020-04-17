@@ -8,7 +8,7 @@
 
 In this project, I converted it from a static project to an interactive one. I modified the HTML and CSS files, but primarily the JavaScript file.
 
-##Website structure:
+## Website structure:
 1. NavBar
 2. Page Heading
 3. Sections
@@ -17,7 +17,7 @@ In this project, I converted it from a static project to an interactive one. I m
 	2. section Content
 4. Footer
 
-##Development Strategy
+## Development Strategy
 1. Start by linking app.js.
 2. Build out HTML and at least 4 content sections.
 3. Build the navigation menu.
